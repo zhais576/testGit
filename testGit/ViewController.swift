@@ -17,6 +17,11 @@ class ViewController: UIViewController {
     func test1(){
         print("testing push to remote")
     }
+    
+    func test2(){
+        print("testing push to remote second")
+    }
+
 
 }
 
