@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func test1(){
+        print("testing push to remote")
+    }
 
 }
 
